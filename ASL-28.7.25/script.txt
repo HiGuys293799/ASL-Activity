@@ -1,0 +1,16 @@
+------------------------------------------------------------ Topic: POP CULTURE; Script
+
+------------------- Notes:
+	
+	Main Anchor shortened to Ma
+	Secondary Anchor shortened to Sa
+	Star #1's name is Ra	(taken from "Raju")
+	Star #2's name is Ka	(taken from "Kapil")
+	Star #3's name is Ab	(taken from "Akhbar")
+	Replace all <x> with the requirements of x, removing the angular brakets
+
+------------------- Script:
+
+Ma:	Good Morning everyone and welcome to your favorite show, the <name of show>, where we talk about all sorts of interesting things, and today shall be no exception!
+
+Sa:	Yes, my dear friends, you heard it right, today we will tak about POP CULTURE!
